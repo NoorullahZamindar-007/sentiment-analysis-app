@@ -8,7 +8,7 @@ A complete web application for real-time sentiment analysis using Logistic Regre
 ## Features  
 
 - **Real-time Sentiment Analysis**: Instant classification of text input 
-- **Machine Learning Model**: Custom Logistic Regression trained on Twitter data 
+- **Machine Learning Model**: Custom Logistic Regression trained on Twitter data  
 - **Confidence Scoring**: Probability scores and confidence levels for predictions
 - **Web Interface**: Clean, responsive design built with Flask 
 - **Example Testing**: Pre-loaded examples for quick testing 
