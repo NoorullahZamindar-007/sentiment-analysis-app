@@ -14,7 +14,7 @@ A complete web application for real-time sentiment analysis using Logistic Regre
 - **Example Testing**: Pre-loaded examples for quick testing 
 - **Batch Processing**: Capability to analyze multiple texts at once
 
-## Technical Stack 
+## Technical Stack  
 
 - **Backend**: Python, Flask
 - **Machine Learning**: Logistic Regression, NLTK
