@@ -16,7 +16,7 @@ A complete web application for real-time sentiment analysis using Logistic Regre
   
 ## Technical Stack  
 
-- **Backend**: Python, Flask
+- **Backend**: Python, Flask 
 - **Machine Learning**: Logistic Regression, NLTK
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Processing**: NumPy
