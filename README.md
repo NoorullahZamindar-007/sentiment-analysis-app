@@ -12,7 +12,7 @@ A complete web application for real-time sentiment analysis using Logistic Regre
 - **Confidence Scoring**: Probability scores and confidence levels for predictions  
 - **Web Interface**: Clean, responsive design built with Flask 
 - **Example Testing**: Pre-loaded examples for quick testing 
-- **Batch Processing**: Capability to analyze multiple texts at once 
+- **Batch Processing**: Capability to analyze multiple texts at once  
   
 ## Technical Stack  
 
