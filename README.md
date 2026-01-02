@@ -3,7 +3,7 @@ A web application for real-time sentiment analysis using Logistic Regression and
  
 # Sentiment Analysis Web Application
 
-A complete web application for real-time sentiment analysis using Logistic Regression and Natural Language Processing. This project classifies text as Positive, Negative, or Neutral with confidence scores.
+A complete web application for real-time sentiment analysis using Logistic Regression and Natural Language Processing. This project classifies text as Positive, Negative, or Neutral with confidence scores. 
 
 ## Features   
  
