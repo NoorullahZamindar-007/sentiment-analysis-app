@@ -2,7 +2,7 @@
 A web application for real-time sentiment analysis using Logistic Regression and NLP. Classifies text as Positive, Negative, or Neutral with confidence scores. Built with Python, Flask, and machine learning. 
    
 # Sentiment Analysis Web Application   
-
+ 
 A complete web application for real-time sentiment analysis using Logistic Regression and Natural Language Processing. This project classifies text as Positive, Negative, or Neutral with confidence scores. 
 
 ## Features         
